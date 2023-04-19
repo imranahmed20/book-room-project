@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Bedroom with double bed and white furniture",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2KK6EfoG42jvGPINsyuT1CV0xTYAv0VciDNsTgTWF1sZ7Epb",
+        "title": "Front-end Developer",
+        "location": "1",
+        "salary": "1",
+        "description": "We are seeking a front-end developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and modern front-end frameworks such as React or Angular."
+    },
+    {
+        "id": 2,
+        "name": "Elegant bedroom or hotel room with classic furniture",
+        "logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCw1QmFwAIknznqpzs26IZ8sESpFvd8a_XYxZj1jQptvzQdBtT",
+        "title": "Front-end Developer",
+        "location": "2",
+        "salary": "4",
+        "description": "We are seeking a front-end developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and modern front-end frameworks such as React or Angular."
+    },
+    {
+        "id": 3,
+        "name": "Rose petals on bed in hotel room",
+        "logo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAxkJt5zHtxbwa0YRHCztqvI21RoTJLm3TGO66itF4n_AM9j10",
+        "title": "Front-end Developer",
+        "location": "2",
+        "salary": "1",
+        "description": "We are seeking a front-end developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and modern front-end frameworks such as React or Angular."
+    }
+]

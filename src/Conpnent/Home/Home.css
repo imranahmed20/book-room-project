@@ -1,0 +1,15 @@
+.bannar {
+    text-align: center;
+    background-image: url('/src/assets/1.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+    height: 500px;
+    /* width: 1250px; */
+}
+
+.banner-title {
+    font-size: 50px;
+    font-weight: 700;
+    color: red;
+}
