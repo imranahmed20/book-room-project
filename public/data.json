@@ -5,8 +5,9 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2KK6EfoG42jvGPINsyuT1CV0xTYAv0VciDNsTgTWF1sZ7Epb",
         "title": "Front-end Developer",
         "location": "1",
+        "price": "109.5",
         "salary": "1",
-        "description": "We are seeking a front-end developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and modern front-end frameworks such as React or Angular."
+        "description": "Furniture refers to movable objects intended to support various human activities such as seating (e.g., stools, chairs, and sofas), eating (tables), storing items."
     },
     {
         "id": 2,
@@ -14,8 +15,9 @@
         "logo": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCw1QmFwAIknznqpzs26IZ8sESpFvd8a_XYxZj1jQptvzQdBtT",
         "title": "Front-end Developer",
         "location": "2",
+        "price": "120.8",
         "salary": "4",
-        "description": "We are seeking a front-end developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and modern front-end frameworks such as React or Angular."
+        "description": "A bedroom or bedchamber is a room situated within a residential or accommodation unit characterised by its usage for sleeping and sexual activity."
     },
     {
         "id": 3,
@@ -23,7 +25,8 @@
         "logo": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAxkJt5zHtxbwa0YRHCztqvI21RoTJLm3TGO66itF4n_AM9j10",
         "title": "Front-end Developer",
         "location": "2",
+        "price": "115.0",
         "salary": "1",
-        "description": "We are seeking a front-end developer to join our team. The ideal candidate will have experience with HTML, CSS, JavaScript, and modern front-end frameworks such as React or Angular."
+        "description": "The origin of the tradition of rose petals on bed is a romantic one, which many have tried and perfected over the years. It is chronicled in history that before the wealthy Romans make love."
     }
 ]

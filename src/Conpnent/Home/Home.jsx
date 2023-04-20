@@ -11,15 +11,17 @@ const Home = () => {
     }, [])
 
     return (
-        <div >
+        <div>
             <div className='bannar'>
                 <h1 className='banner-title'>Burj Al Arab</h1>
                 <h4 className='fw-bold fw-4'>A global icon of Arabian Luxury</h4>
             </div>
-            <div className='row row-cols-1 row-cols-md-3 g-4 mt-5'>
-                {
-                    books.map(book => <Book key={book.id} book={book}></Book>)
-                }
+            <div className='container'>
+                <div className='row row-cols-1 row-cols-md-3 g-4 mt-5 mb-5'>
+                    {
+                        books.map(book => <Book key={book.id} book={book}></Book>)
+                    }
+                </div>
             </div>
         </div>
     );
